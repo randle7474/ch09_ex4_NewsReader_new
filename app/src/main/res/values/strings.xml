@@ -8,8 +8,11 @@
     <string name="item_title">Item title</string>
     <string name="item_description">Item description</string>
     <string name="item_link">Read more on the web</string>
-    
+
     <string name="menu_refresh">Refresh</string>
     <string name="menu_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

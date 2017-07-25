@@ -2,11 +2,31 @@
 <items version="2" >
 
     <item
-        jar="C:\Android SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\romy7\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\leticia.rabor\AndroidstudioProjects\ch09_ex4_NewsReader\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-26592129f9270d1254b5f2cea2bf6a5b807a2054.jar" />
+        <dex dex="C:\Users\romy7\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_11ce3bfab469c905558e94f43c7b5bcda3e34e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\romy7\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\romy7\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88885fd7a98750334b3431e1c2ff8a2042af92c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\romy7\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2402f2390aa6a200ab4872c554ee861db0bb6057">
+        <dex dex="C:\Users\romy7\AndroidStudioProjects\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5e4a87ec971406743ed1b75292e972c892d5b1f6\classes.dex" />
     </item>
 
 </items>
